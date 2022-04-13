@@ -28,9 +28,8 @@ Visual Studio 2022及びVisual C++ 2022をインストールし、Visual Studio 
 コンタクト
 -------
 
-[Twitter](https://twitter.com/i/user/970220760340942848)
-
-[E-Mail](mailto:takexaz@gmail.com)
+- [Twitter](https://twitter.com/i/user/970220760340942848)
+- [E-Mail](mailto:takexaz@gmail.com)
 
 
 クレジット
